@@ -11,6 +11,10 @@ ANS: You can use online surveys to gain an understanding of your audience before
 
 What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 ANS:
+Avoid using jargon and instead use simple terms
+Use visual content to break down content
+Study your audience to better tailor your content to them
+Include descriptive headings to make scanning easier
 
 Why is it important to use plain language instead of technical jargon in your writing?
 ANS: This is because you want your writing to be understood by a wide audience, from the lowest to the highest level of expertise. Using plain language also lowers the chances of your audience getting bored with the content which will ultimately contribute to the acceptance rate of your product.
@@ -28,7 +32,14 @@ How do headings and subheadings improve the readability and organization of tech
 ANS: Headings and subheadings help to break down large chunks of content into manageable chunks for your audience. They also guide the audience on the topics being discussed in different parts of your content thus making it easier for them to scan documents.
 
 What are some best practices for creating effective headings and subheadings?
-
+ANS:
+Use keywords - Include keywords from within the content to ensure that the audience easily understands what they are going to read
+Make it short but descriptive - Don't make headings too long. This may make the audience bored before they begin going through the content. Keep it short but use keywords to make it descriptive
+Use different font or colour for them - This makes them easily identifiable especially in large blocks of content.
 
 What should be included in the introduction of a Readme to immediately inform users about what the product does?
+ANS: Make sure there is a descriptive heading. Thereafter include a summary of the entire project which has a problem statement and how your project addresses this problem and how it does it.
+
 How can you succinctly convey the purpose and key features of a product?
+ANS:
+Start by stating your problem statement then introduce your project as your solution. Use short bullet points with keywords to quickly explain the different features and link these bullet points to different aspects of the problem statement. Incorporate visuals in your content to make it more interactive and speak to an audience that understands those better. Finally include testimonials from your first customers to emphasise how the product has acted as the solution to the problem they were facing.
